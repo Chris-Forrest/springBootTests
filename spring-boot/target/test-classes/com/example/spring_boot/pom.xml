@@ -1,0 +1,5 @@
+<dependency>
+        <groupId>org.sprinframework.boot</groupId>
+        <artifactId>spring-boot-starter-test</artifactId>
+        <scope>test</scope>
+</dependency>
